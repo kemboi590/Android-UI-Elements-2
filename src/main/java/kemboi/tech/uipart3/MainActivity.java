@@ -29,8 +29,6 @@ public class MainActivity extends AppCompatActivity implements CompoundButton.On
         checkboxMobile = findViewById(R.id.checkboxMobile);
         checkboxMobile.setOnCheckedChangeListener(this);
 
-
-
 //        checkbox
         maritalStatus = findViewById(R.id.maritalStatus);
         progressBar = findViewById(R.id.progressBar);

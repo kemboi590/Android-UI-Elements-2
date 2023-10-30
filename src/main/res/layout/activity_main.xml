@@ -73,7 +73,6 @@
             android:text="In Relationship"
             android:id="@+id/radioRel"
             android:layout_marginLeft="15dp"
-
             />
 
     </RadioGroup>
@@ -89,7 +88,6 @@
         android:max="100"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
-
         />
 
 </RelativeLayout>
